@@ -1,0 +1,7 @@
+Suppose we want to create a shopping list for the items we need to create  the above scene of a fancy french restaurant. It would look like, being specific about the brand and the visual properties:
+ * Table : country style farmhouse table, oakwood and dark brown.
+ * Chairs : provincial style chairs, upholstered in ivory velvet. 
+ * Bar : Traditional style bar counter, white marble, gold accents on the corners.
+ * Bar stools : provincial style bar stools, upholstered in ivory velvet, golden accents on corners
+
+

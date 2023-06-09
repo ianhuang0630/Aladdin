@@ -1,0 +1,8 @@
+log:
+  exp_name: jade_vase 
+guide:
+  text: "A jade vase with chinese patterns, {} view"
+  append_direction: True
+  shape_path: /orion/u/ianhuang/tabla_rasa/ScenesFromAbstractLanguage/texture/samples/presentation/objects/a_vase/a_vase_0.obj
+optim:
+  seed: 3

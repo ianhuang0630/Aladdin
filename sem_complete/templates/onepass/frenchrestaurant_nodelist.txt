@@ -1,0 +1,25 @@
+Here is a list of items one would find in a fancy french restaurant:
+* Table
+* Chairs
+* Tablecloth
+* Napkins
+* Fine China
+* Crystal Glasses
+* Water Goblets
+* Wine Glasses
+* Bread Basket
+* Butter
+* Salt and Pepper Shakers
+* Soup Bowl
+* Salad Plate
+* Dinner Plate
+* Dessert Plate
+* Coffee Cup and Saucer
+* Fork
+* Knife
+* Spoon
+* Dessert Fork
+* Dessert Knife
+* Corkscrew
+* Wine Bottle
+

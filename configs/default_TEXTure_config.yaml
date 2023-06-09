@@ -1,0 +1,52 @@
+guide:
+  append_direction: true
+  background_img: textures/brick_wall.png
+  concept_name: null
+  concept_path: null
+  diffusion_name: stabilityai/stable-diffusion-2-depth
+  dy: 0.25
+  guidance_scale: 7.5
+  initial_texture: null
+  reference_texture: null
+  shape_path: shapes/spot_triangulated.obj
+  shape_scale: 0.6
+  strict_projection: true
+  text: REPLACE ME!
+  texture_interpolation_mode: bilinear
+  texture_resolution: 1024
+  use_background_color: false
+  use_inpainting: true
+  z_update_thr: 0.2
+log:
+  eval_only: false
+  eval_size: 10
+  exp_name: default_test
+  exp_root: experiments
+  full_eval_size: 100
+  log_images: true
+  save_interval: 100
+  save_mesh: true
+  vis_diffusion_steps: false
+optim:
+  lr: 0.01
+  max_timestep: 0.98
+  min_timestep: 0.02
+  no_noise: false
+  seed: 0
+render:
+  alternate_views: true
+  base_theta: 60
+  eval_grid_size: 1024
+  front_offset: 0.0
+  front_range: 70
+  n_views: 8
+  overhead_range: 40
+  radius: 1.5
+  train_grid_size: 1200
+  views_after:
+  - - 180
+    - 30
+  - - 180
+    - 150
+  views_before: []
+device: cuda

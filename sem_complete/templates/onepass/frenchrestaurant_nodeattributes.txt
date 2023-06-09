@@ -1,0 +1,25 @@
+For every item above, list the item and its material properties and appearance.
+* Table: wood, modern design
+* Chairs: wood, modern design
+* Tablecloth: linen, white
+* Napkins: linen, white
+* Fine China: porcelain
+* Crystal Glasses: leaded crystal
+* Water Goblets: leaded crystal
+* Wine Glasses: leaded crystal
+* Bread Basket: wicker
+* Butter: plastic, yellow
+* Salt and Pepper Shakers: ceramic, white
+* Soup Bowl: ceramic, white
+* Salad Plate: ceramic, white
+* Dinner Plate: ceramic, white
+* Dessert Plate: ceramic, white
+* Coffee Cup and Saucer: porcelain, white
+* Fork: stainless steel
+* Knife: stainless steel
+* Spoon: stainless steel
+* Dessert Fork: stainless steel
+* Dessert Knife: stainless steel
+* Corkscrew: metal, silver
+* wine Bottle: glass, clear
+

@@ -1,0 +1,24 @@
+Here is a list of the number of items one would find in a fancy french restaurant:
+* Table: 1
+* Chairs: 4
+* Tablecloth: 1 
+* Napkins: 4 
+* Fine China Plates: 4 
+* Crystal Glasses: 4 
+* Water Goblets: 4 
+* Wine Glasses: 4 
+* Bread Basket: 1 
+* Butter: 1 
+* Salt and Pepper Shaker: 1 
+* Soup Bowl: 1 
+* Salad Plate: 1 
+* Dinner Plate: 1 
+* Dessert Plate: 1 
+* Coffee Cup and Saucer: 1 
+* Forks: 4 
+* Knives: 4 
+* Spoons: 4 
+* Dessert Forks: 4 
+* Dessert Knives: 4 
+* Corkscrew: 1 
+* Wine Bottle: 1 

@@ -1,0 +1,5 @@
+Here is a list of items found within a scene of a fancy french restaurant:
+* Tables : 1 
+* Chairs : 4
+* Bar : 1
+* Bar stools : 2

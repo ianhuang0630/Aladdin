@@ -1,0 +1,11 @@
+Here's a description of a person's dream:
+
+I am in a forest with mom and we’re arguing. We’re lost, and I’m trying to find our way. She keeps telling me that we’re circling the same place over and over again. But this forest is no ordinary forest. There are creatures here that I have never seen before, and creatures that talk. We stop in front of an ancient tree, which hosts a gaping hole. In the hole sits an owl, who begins to speak. For some reason, I begin to argue with the owl. It glares at me and threatens me by slashing its wing against its throat. I run.
+
+---
+
+Here's the same dream but breaking up the description into paragraphs according to scenes:
+
+I am in a forest with mom and we’re arguing. We’re lost, and I’m trying to find our way. She keeps telling me that we’re circling the same place over and over again. But this forest is no ordinary forest. There are creatures here that I have never seen before, and creatures that talk. 
+
+We stop in front of an ancient tree, which hosts a gaping hole. In the hole sits an owl, who begins to speak. For some reason, I begin to argue with the owl. It glares at me and threatens me by slashing its wing against its throat. I run.

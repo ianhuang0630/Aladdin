@@ -1,0 +1,6 @@
+Next we enhance the scene with more assets, in relation to the anchor objects. 
+In relation to the `table`, here is the list of assets we add:
+* Tablecloth : 1
+* Plates : 4
+* Silverware : 4 
+* Wine glasses : 2

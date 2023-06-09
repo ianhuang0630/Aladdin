@@ -1,0 +1,6 @@
+Now we place them into the scene one by one:
+* Table : in the center of the room. Coordinate (0.0, 0.0, 0.0)
+* Chairs : on each side of the table. Coordinates (0.5, 0.5, 0.0) (-0.5, 0.5, 0.0)
+* Bar : in the corner of the room. Coordinate (-1.0, -1.0, 0.0)
+* Bar stools : by the bar. Coordinates (-0.75, -0.75, 0.0) (-1.25, -1.25, 0.0)
+

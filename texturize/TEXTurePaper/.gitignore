@@ -1,0 +1,11 @@
+**/cache
+**/experiments
+**/.ipynb_checkpoints
+**/__pycache__
+*.mp4
+*.npy
+*.npz
+*.dae
+data/*
+logs/*
+.idea

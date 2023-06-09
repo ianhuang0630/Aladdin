@@ -1,0 +1,5 @@
+Describe the physical condition of these items in a scene of a fancy french restaurant:
+* Table :  smooth, polished finish.
+* Chairs : slight signs of wear on the sides.
+* Bar : slight signs of wear.
+* Bar stools : slight wear on the rattan seats.

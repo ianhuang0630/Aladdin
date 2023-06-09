@@ -1,0 +1,7 @@
+Here we are building a 3D scene of a french restaurant. At each step, we are not adding more than 8 assets in total into the scene. 
+
+First, we place the most important assets (e.g. furnitures, bigger objects) and use those as our anchors. Here is a list of them:
+* Tables : 1 
+* Chairs : 4
+* Bar : 1
+* Bar stools : 2
