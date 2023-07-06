@@ -38,7 +38,7 @@ TODO
 All the code has been run and tested on Ubuntu 18.04, Python 3.9.16 with Nivdia Titan X GPUs.
 
 Clone this respository, and then install these dependencies:
-- `pip install torch==1.12.1 torchvison=0.13.1`
+- `pip install torch==1.12.1 torchvision==0.13.1`
 - `pip install kaolin==0.11.0 -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/torch-1.12.1_{CUDA_VER}.html`, according to the specific CUDA version on your machine. For instance, `pip install kaolin==0.12.0 -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/torch-1.12.1_cu113.html` for CUDA 11.3. 
 
 Install the remainder of the dependencies using the `requirements.txt`:
