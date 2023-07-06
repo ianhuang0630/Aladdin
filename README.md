@@ -21,10 +21,12 @@ Ian Huang, Vrishab Krishna, Omoruyi Atekha, Leonidas Guibas
 ## Citation
 If you use this code, or would like to cite our work, please cite:
 ``` 
-
-TODO
-
- 
+@article{aladdin,
+  title={Aladdin: Zero-Shot Hallucination of Stylized 3D Assets from Abstract Scene Descriptions},
+  author={Ian Huang and Vrishab Krishna and Omoruyi Atekha and Leonidas Guibas},
+  journal={arXiv preprint arXiv:2306.06212},
+  year={2023}
+}
 ```
 
 
