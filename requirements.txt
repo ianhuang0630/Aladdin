@@ -22,3 +22,4 @@ flask_cors
 openai
 boto3
 objaverse
+hydra-core
